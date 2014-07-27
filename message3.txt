@@ -1,0 +1,21 @@
+In the original Morse telegraphs, the receiver's armature made a clicking
+noise as it moved in and out of position to mark the paper tape. The
+telegraph operators soon learned that they could translate the clicks
+directly into dots and dashes, and write these down by hand, thus making the
+paper tape unnecessary. When Morse code was adapted to radio communication,
+the dots and dashes were sent as short and long pulses. It was later found
+that people became more proficient at receiving Morse code when it is taught
+as a language that is heard, instead of one read from a page.
+In the 1890s, Morse code began to be used extensively for early radio
+communication, before it was possible to transmit voice. In the late
+nineteenth and early twentieth century, most high-speed international
+communication used Morse code on telegraph lines, undersea cables and radio
+circuits. In aviation, Morse code in radio systems started to be used on a
+regular basis in the 1920s. Although previous transmitters were bulky and
+the spark gap system of transmission was difficult to use, there had been
+some earlier attempts. In 1910 the U.S. Navy experimented with sending Morse
+from an airplane. That same year a radio on the airship America had been
+instrumental in coordinating the rescue of its crew. Zeppelin airships
+equipped with radio were used for bombing and naval scouting during World
+War I, and ground-based radio direction finders were used for airship
+navigation.

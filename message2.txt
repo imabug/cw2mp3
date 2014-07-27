@@ -1,0 +1,10 @@
+Samuel FB Morse was born on 27 April 1791 in Charlestown Massachusetts.
+He invented the electric telegraph system with the help of Alfred Vail.
+Morse had planned to transmit only numbers, and use a dictionary to look up
+each word according to the number.
+However, Alfred Vail expanded the code to include letters and special
+characters.
+The letters most commonly used in the English language were assigned the
+shortest sequences.
+Today, aeronautical charts show the morse ID of each VORTAC and NDB used for
+in flight navigation.
